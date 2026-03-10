@@ -5,7 +5,7 @@
 ## ✨ Sobre mim
 
 📌 Desenvolvedor Backend em formação  
-📌 Cursando o 4º semestre de **Análise e Desenvolvimento de Sistemas** na Faculdade Anhanguera
+📌 Cursando o 5º semestre de **Análise e Desenvolvimento de Sistemas** na Faculdade Anhanguera
 📌 Sempre buscando evoluir como profissional e como pessoa
 
 ---
