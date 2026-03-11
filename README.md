@@ -40,7 +40,7 @@
 ## 📬 Contato
 
 - ✉️ Email: guxtavo667@hotmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/guxtavo-henrique)
+- 💼 [LinkedIn](www.linkedin.com/in/guxtavodev)
 
 ---
 
